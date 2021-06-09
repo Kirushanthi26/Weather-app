@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans&display=swap');
+
+.result{
+    height: 90vh;
+    display: grid;
+    place-items: center;
+}
+
+.result__box{
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #6C63FF;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-family: 'Martel Sans', sans-serif;
+}
